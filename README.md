@@ -49,3 +49,5 @@ Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 ![4](https://github.com/Shivam8369/Shop2Cart/assets/96806019/54e40957-06b3-4690-a211-99f26c36fab9)
 
 
+### Hosted Link
+## https://shop2cart.netlify.app/
