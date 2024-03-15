@@ -14,23 +14,27 @@ This is a fully functional shopping cart website built using React and Tailwind 
 
 Clone the repository:
 
-git clone <repository-url>
+### git clone <repository-url>
 
 
 Install the dependencies:
-npm install
+### npm install
 
 
 Start the development server:
-npm start
+### npm start
 
 
 Open the website in your browser:
-http://localhost:3000
+### http://localhost:3000
 
 
 ## Technologies Used
 React: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+
+
+
 
 
