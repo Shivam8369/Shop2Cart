@@ -24,13 +24,13 @@ const Product = ({ post }) => {
       hover:scale-110 transition duration-300 ease-in gap-3 p-4 mt-10 ml-5 rounded-xl outline">
 
       <div>
-        <p className="text-gray-700 font-semibold text-lg text-left truncate w-40 mt-1">
+        <p className="text-gray-700 font-semibold text-lg text-center w-56 mt-1">
           {post.title}
         </p>
       </div>
 
       <div>
-        <p className="w-40 text-black-500 font-normal text-[10px] text-left">
+        <p className=" text-black-500 font-normal text-[11px] text-left">
           {post.description.split(" ").slice(0, 10).join(" ") + "..."}
         </p>
       </div>
